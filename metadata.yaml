@@ -1,0 +1,39 @@
+_repo: The-Devil-s-Own--A-Romance-of-the-Black-Hawk-War_17710
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Kinney, Margaret West
+    birthdate: 1872
+    gutenberg_agent_id: '25250'
+    url: http://www.gutenberg.org/2009/agents/25250
+  - agent_name: Kinney, Troy
+    alias: Kinneys, The
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '25249'
+    url: http://www.gutenberg.org/2009/agents/25249
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parrish, Randall
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '2217'
+    url: http://www.gutenberg.org/2009/agents/2217
+description: ''
+gutenberg_issued: '2006-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17710'
+  lccn: '17028849'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Black Hawk War, 1832 -- Fiction'
+title: 'The Devil''s Own: A Romance of the Black Hawk War'
+url: http://www.gutenberg.org/ebooks/17710
